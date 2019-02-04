@@ -12,7 +12,7 @@ so I started drawing logos and simple images using pure CSS.
 Check out my tutorials:
 {% for post in site.posts %}
 {% if post.categories contains 'css' %}
-- <a href="{{ post.link }}">{{ post.title }}</a>
+- <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 {% endif %}
 {% endfor %}
 

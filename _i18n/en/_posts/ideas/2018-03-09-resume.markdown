@@ -16,5 +16,5 @@ This project uses:
 - JSON for storing the resume data
 - CSS for styling
 
-Check out my pure HTML + CSS [resume](/resume) created with this 
+Check out my pure HTML + CSS [resume]({{ site.baseurl }}/resume) created with this 
 tool.

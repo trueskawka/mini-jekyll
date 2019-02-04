@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-<html>
+{% if site.lang == "en" %}
+<html lang="en">
+{% else %}
+<html lang="pl">
+{% endif %}
   {% include head.html %}
   <body>
     <div class="container">

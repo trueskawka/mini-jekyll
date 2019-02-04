@@ -1,5 +1,7 @@
 <head>
   <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <title>
     {% if post.title %}
         {{ post.title | escape }}
@@ -8,9 +10,17 @@
     {% endif %}
   </title>
 
+  {% if post.title %}
+    <meta name="Description" content="{{ post.excerpt }}">
+  {% else if page.description %}
+    <meta name="Description" content="{{ page.description }}">
+  {% else %}
+    <meta name="Description" content="Alicja Raszkowska's website.">
+  {% endif %}
+
   <link
     rel="canonical"
-    href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
+    href="{{ site.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
   />
 
   <link rel="stylesheet" href="{{
