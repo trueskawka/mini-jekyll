@@ -1,0 +1,88 @@
+---
+layout: post_default
+title:  "Pierwsze 20 godzin"
+date:   2016-09-18 22:11:00 +4:00:00
+categories: ["blog", "life"]
+author: "alicja"
+---
+Niedawno przeczytałam ponownie [Pierwsze 20 godzin: jak nauczyć się czegokolwiek... szybko!](https://www.amazon.com/First-20-Hours-Learn-Anything/dp/1591846943) [EN] Josha Kaufmana - lekką książkę z przydatnymi spostrzeżeniami na temat uczenia się nowych umiejętności. Ponieważ mam tyle do nauczenia się i tak mało czasu (a przynajmniej mam takie poczucie), idea spędzenia tylko 20 godzin nad czymś, od nieznajomości tematu do całkiem niezłego radzenia sobie z nim, brzmi zachęcająco.
+
+Trzeba zapomnieć o założeniu, że nauczenie się nowej umiejętności wymaga 10 tysięcy godzin. Oczywiście, przeznaczenie pięciu lat w wymiarze pełnego etatu na pewno przyczyni się do zdobycia i doprowadzenia do perfekcji nowej umiejętności, ale nie każdy z nas musi być ekspertem w każdej dziedzinie. Czasami wystarczy tylko podstawowa znajomość tematu.
+
+Niektóre pomysły przedstawione w książce skojarzyły mi się ze znanymi z ekonomii ideami, przede wszystkim:
+
+* prawem malejących przychodów - im więcej się uczysz, tym mniej zauważalne będą Twoje postępy (tak samo jak jedzenie coraz więcej czekolady po pierwszej połówce tabliczki nie przyczynia się zauważalnie do zwiększenia zadowolenia)
+
+* zasadą Pareto - 20% wysiłków przynosi 80% zysków (ale wysiłki te muszą być ukierunkowane i celowe)
+
+* prawem Parkinsona - praca wypełni cały czas przeznaczony na zadanie (więc krótsze terminy mogą czasem zwiększyć produktywność)
+
+Wyłącznie rozumienie i zauważanie tych zasad może nie być wystarczające dla ich przezwyciężenia, stąd Josh prezentuje proste kroki do nauczenia się dowolnej umiejętności. Przez 'dowolną umiejętność' ma na myśli 'dowolną umiejętność, na której Ci zależy'. Stąd pierwszym krokiem jest wybranie istotnego tematu i skupienie się na jednym projekcie.
+
+Następnie należy określić docelowy poziom umiejętności. Co dla Ciebie znaczy nauczenie się czegoś nowego? Jeśli chcesz się nauczyć języka obcego, pragniesz być komunikatywnym turystą w trakcie wakacji czy prowadzić niekończące się dysputy filozoficzne? Chcesz grać na gitarze przy ognisku czy zostać gwiazdą rocka? Josh radzi, żeby zacząć powoli - kiedy już rozumiesz podstawowe pojęcia i umiesz wykonywać proste czynności, możesz zacząć utrudniać sobie życie. Aby zostać gwiazdą rocka, musisz najpierw wiedzieć, jak działa gitara i w jak na niej brzdąkać.
+
+Aby zacząć naukę, można zastosować zasady szybkiego uczenia się umiejętności, przede wszystkim:
+
+* **dekonstrukcję** umiejętności i rozbicie jej na mniejsze kroki
+
+* **uczenie się o każdym kroku z osobna**, aby móc właściwie ćwiczyć i poprawiać się w oparciu o szybkie informacje zwrotne
+
+* **usunięcie barier** do nauki
+  - fizycznych - zebranie potrzebnych narzędzi (np. gitary, książek) i wyznaczenie czasu na naukę (np. codziennie 45 minut)
+  - psychicznych - przyjęcie czynnego podejścia do nauki (np. jestem w stanie uczyć się na ten temat przez kolejne 20 minut)
+
+* świadome i celowe **ćwiczenie**
+
+Ograniczenie się do tylko 20 godzin ćwiczenia nowej umiejętności (albo osiągnięcia docelowego poziomu umiejętności) pozwala uniknąć pułapki prawa Parkinsona. Dodatkowo  rozwój umiejętności jest zazwyczaj najszybszy na początku, ponieważ funkcja poziomu umiejętności do czasu gwałtownie rośnie w pierwszym okresie. Można więc w miarę szybko nauczyć się dużo i oprzeć dalszą motywację na już osiągniętym sukcesie.
+
+Skupienie się na jednej umiejętności przez krótki czas pozwala też na przetestowanie pomysłu. Czy na pewno chcę się nauczyć hiszpańskiego, czy jest to tylko coś, co uważam, że powinnam umieć? Czy chcę nad tym spędzić więcej czasu? Czasami nie da się poznać swoich własnych preferencji bez odpowiedniego przetestowania założeń. Rezygnacja z dalszej nauki po krótkim eksperymencie jest jak najbardziej pożądana, jeśli okaże się ona bezcelowa.
+
+W swojej książce Josh opisuje, w jaki sposób nauczył się sześciu nowych umiejętności w ciągu roku:
+
+- codzienne ćwiczenie jogi
+
+- podstawowe programowanie i zbudowanie dwóch aplikacji
+
+- bezwzrokowe pisanie na klawiaturze w Colemaku
+
+- granie w Go
+
+- granie na ukulele
+
+- windsurfing
+
+Nie chciałabym zepsuć nikomu przyjemności z czytania książki opiszę więc tylko pokrótce rozdział o grze na ukulele.
+
+Jak możnaby się tego nauczyć?
+
+1. Zakup ukulele i innego niezbędnego sprzętu brzmi jak dobry początek.
+
+2. Nauczenie się, jak działa ukulele (części instrumentu, skąd bierze się dźwięk etc.).
+    <img src="{{ site.cdn_path }}/blog/20hours/ukulele.JPG" />
+
+3. Skupienie się na nauce czterech podstawowych chwytów (podobno większość popularnych piosenek można zagrać używając tylko G, D, Em i C).
+    <img src="{{ site.cdn_path }}/blog/20hours/chords.JPG" />
+
+4. Kiedy już granie tych chwytów bezwzrokowo jest proste, skupienie się na graniu ich bez zastanawiania się.
+
+5. Uczenie się piosenek przez najpierw nucenie, a potem śpiewanie.
+
+6. Eksperymentowanie, np. nauczenie się fingerpickingu i nowych chwytów.
+
+7. Ciągłe uczenie się.
+
+[Tutaj](https://www.youtube.com/watch?v=5MgBikgcWnY) Josh opowiada o swoich pomysłach, a [tu](https://www.amazon.com/First-20-Hours-Learn-Anything/dp/1591846943) można kupić jego książkę [EN]. Inne przydatne źródła:
+
+* [Siła nawyku](http://www.empik.com/sila-nawyku-duhigg-charles,p1066293191,ksiazka-p) Charlesa Duhigga, książka o zrozumieniu nawyków i pomysłach na ich zmienianie
+
+* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) [EN] - darmowy kurs online o tym, jak działa umysł, i sposobach uczenia się
+
+* [Become a Superlearner](https://www.udemy.com/) [EN] stosunkowo niedrogi kurs skupiający się na szybkim uczeniu się i technikach zapamiętywania, z dość dużym naciskiem na szybkie czytanie
+
+* [Lifehacker](http://lifehacker.com/) [EN] strona z codziennymi poradami na różnorodne tematy, w duchu lifehackingu (*hackowania życia*)
+
+* [xkcd](http://xkcd.com/) [EN] wspaniały komiks o życiu i nauce, prowadzony przez Randalla Munroe (ma też świetne [książki](https://www.amazon.com/Randall-Munroe/e/B004H66444/ref=dp_byline_cont_book_1))
+
+* [Saturday Morning Breakfast Cereal](http://smbc-comics.com/) [EN] filozoficzno-satyryczny komiks ZachA WeinersmithA
+
+Przyjemnej nauki!

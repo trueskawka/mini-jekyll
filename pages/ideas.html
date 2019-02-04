@@ -1,0 +1,19 @@
+---
+layout: default
+title: ideas
+permalink: /ideas/
+---
+
+<!-- <h3>{% translate_file ideas.md %}</h3> -->
+
+{% for post in site.posts %}
+{% if post.categories contains 'idea' %}
+<div class="post">
+    <h3>{{ post.title }}</h3>
+    <a href="{{ post.link }}">{{ post.link }}</a>
+    <p>
+        {{ post.content }}
+    </p>
+</div>
+{% endif %}
+{% endfor %}

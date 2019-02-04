@@ -1,0 +1,88 @@
+---
+layout: post_default
+title:  "The First 20 Hours"
+date:   2016-09-18 22:11:00 +4:00:00
+categories: ["blog", "life"]
+author: "alicja"
+---
+I have recently reread [The First 20 Hours: How To Learn Anything... Fast!](https://www.amazon.com/First-20-Hours-Learn-Anything/dp/1591846943) by Josh Kaufman - a light book with some helpful insights on acquiring new skills. As I have so much to learn and so little time (or at least so is my perception), the concept of spending just 20 hours on something and going from knowing nothing to performing noticeably well is appealing.
+
+One needs to forget the notion of 10.000 hours needed to master a skill. That is not to say that practicing for about 5 years as a full-time job won't help in acquiring and mastering a skill, it's simply that most of us don't need to be experts in every field. Sometimes just the basic skill can get a long way.
+
+Some of the concepts presented in the book reminded me of well-known economic ideas, among others:
+
+* the law of diminishing returns - the more you learn, the less noticeable your progress (just as well as eating more and more chocolate won't bring noticeable difference after the first half of the bar)
+
+* Pareto principle - 20% of efforts bring 80% of returns (but those efforts have to be directed and deliberate)
+
+* Parkinson’s law - work will fill out all the time available (so shorter deadlines can be more productive)
+
+Merely understanding and noticing these rules may not be enough to overcome them, so Josh goes on to present actionable steps for learning any skill. By 'any skill' he means 'any skill that is important to you'. The first step is to choose a lovable subject and concentrate on one project at a time.
+
+Secondly, one needs to define a target performance. What does it mean for you to learn a skill? If you were to learn a language, do you want to be a communicative tourist during your summer holidays or have never-ending philosophical disputes? Do you want to play guitar at a campfire or be a rock star? Josh advices that it's better to start small - when you can understand the basic concepts and perform simple tasks, you can then move on to more sophisticated notions. In order to be a rock star, you need to know how a guitar produces the sounds and how to strum it.
+
+In order to take the first steps, one can apply the rules of rapid skill acquisition, mainly:
+
+* **deconstructing** the desired skill into smallest possible subskills
+
+* **learning about each subskill** to practice intelligently and self-correct based on fast feedback loops
+
+* **removing barriers** to learning
+  - physical - acquiring the right tools (e.g. guitar, books) and setting aside time for practice (e.g. every day for 45 minutes)
+  - mental and emotional - setting oneself in a can-do mindset (e.g. I can learn this concept for the next 20 minutes)
+* **practicing** mindfully and deliberately
+
+Constraining oneself further with practicing for just 20 hours or until the desired target performance is reached helps with avoiding the Parkinson's law trap. Also, short-term results are usually the most rapid ones, as the function of skill to time is most steep at the very start. Hence one can get pretty good quickly and base motivation for their next steps on the already achieved success.
+
+Concentrating on one skill for a short time has also the advantage of testing the idea. Do I really want to speak Spanish, or is it just something I feel I need to know? Is this something I want to spend more time on? Sometimes one can't know their own preferences until they've properly tested their presumptions. After a short experiment, there is no harm in deciding not to follow up on it.
+
+In his book, Josh goes on to describe how he acquired six new skills over the course of a year:
+
+- setting up a daily yoga routine
+
+- basic programming and building two applications
+
+- touch typing in Colemak
+
+- playing Go
+
+- playing ukulele
+
+- windsurfing
+
+
+As I don't want to spoil the book, I'll briefly describe the ukulele-playing chapter.
+
+How would one go about it?
+
+1. Obtaining an ukulele and other necessary equipment seems like a good start.
+
+2. Learning how it works (parts of the instrument, where does the sound come from etc.).
+            <img src="{{ site.cdn_path }}/blog/20hours/ukulele.JPG" />
+
+3. Focusing on learning four most common chords (they say you can play most pop songs with just G, D, Em and C).
+            <img src="{{ site.cdn_path }}/blog/20hours/chords.JPG" />
+
+4. When one can play the chords without looking, practicing until they can play them without thinking.
+
+5. Beginning to learn songs by humming along, then adding lyrics.
+
+6. Experimenting, e.g. learning fingerpicking and new chords.
+
+7. Never graduating.
+
+You can [watch Josh's talk about these concepts](https://www.youtube.com/watch?v=5MgBikgcWnY) or [buy his book](https://www.amazon.com/First-20-Hours-Learn-Anything/dp/1591846943). Other resources you might find useful:
+
+* [The Power of Habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) by Charles Duhigg, a book on understanding habits and some ideas on how to change them
+
+* [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) a free MOOC on the basic concepts of learning and the inner workings of the mind
+
+* [Become a Superlearner](https://www.udemy.com/) a relatively cheap course focusing on rapid learning and memory techniques, with a lot of emphasis on speed reading
+
+* [Lifehacker](http://lifehacker.com/) a website with daily ideas on various topics, in the spirit of lifehacking
+
+* [xkcd](http://xkcd.com/) a delightful comic on life and science by Randall Munroe (check out his wonderful [books](https://www.amazon.com/Randall-Munroe/e/B004H66444/ref=dp_byline_cont_book_1))
+
+* [Saturday Morning Breakfast Cereal](http://smbc-comics.com/) a philosophical and satirical web comic by Zach Weinersmith
+
+Happy learning!

@@ -1,0 +1,96 @@
+---
+layout: post_default
+title:  "To mentor"
+date:   2017-01-03 3:27:00 +4:00:00
+categories: ["zulip", "outreachy", "gci", "blog"]
+author: "alicja"
+published: true
+---
+When I first heard Zulip is taking part in Google Code-In and was asked to
+become a mentor, I got excited. And scared. The more time passed, the more
+scared I was, feeling inadequate and not experienced enough to review other
+people's code.
+
+After the first week of GCI I was terrified. It felt like the reviews were
+a never-ending battle between the quality and quantity (GCI students are motivated to do as many tasks as possible due to the contest rules). I've
+constantly been asked questions I didn't know the answers to and was
+expected to understand features from a large chunk of the codebase - larger
+than I felt comfortable with.
+
+I felt like I was only disturbing the learning process and irritating the
+students with my constant questions and nagging for improvements. I was
+learning a lot to my own benefit:
+
+- After explaining git flow many times, I finally feel confident while working in the terminal and not just pretending to be comfortable with it.
+
+- I've learned to rebase, amend and merge other's work into the
+    codebase.
+
+- I've created a group of tasks on interactive bots and learned more
+    from students asking questions about them than from creating my own bot.
+
+- I've had a comprehensible conversation in German with one of the
+    students, which is a big deal for me since I haven't used the language
+    in years.
+
+Gradually, I became more and more confident with code reviews and helping
+out on chat. I've read a bunch of articles on multiple topics concerning
+Python, APIs, webhooks, frontend testing and typing. I've learned a ton
+from reading other mentors' reviews of the contributions. I'm now able to
+calmly read a question and not panic when I initially don't know the
+answer, even though I'm *supposed to*.
+
+Being in this double role of a mentee and a mentor, I think I benefited
+much more from GCI than I thought possible. Also, Zulip is rapidly being
+improved by many motivated students - hundreds of mypy annotations were
+added, multiple features were fixed, many interactive bots were introduced, and a ton of user documentation was written. I did not expect for it to go
+this well.
+
+Over the past few weeks I've also had a lot of thoughts on improving the
+process and communication, even going as far as to have [pull request](https://github.com/zulip/zulip-gci/pull/394) for that.
+
+### What's important to the mentor
+
+* Give context.
+
+    When asking for help or a review, give the mentor some context on the
+    issue. They are working on multiple issues and helping many people -
+    they might not immediately remember all the relevant facts. Show what
+    you have already done to solve the problem.
+
+* Think about the user.
+
+    When developing a feature, think about the user perspective whenever
+    applicable. What are the expected use cases? What would be comfortable
+    to use, not just simple and reasonable to implement?
+
+* Respect others' time.
+
+    Before submitting anything, make sure you took care of any sloppiness
+    (typos, linter errors, unnecessary chunks of code). Test your feature
+    manually. Make sure you are asking for help for something you weren't able to solve, not something you forgot to check.
+
+* Don't expect simple answers.
+
+    When asking questions, expect help, but be prepared to accept it in
+    the form it's been offered. If a mentor is pointing you to an external
+    resource or asking you to double check your implementation, they're
+    doing it to help you learn.
+
+* Don't be embarrassed.
+
+    Sometimes you might think asking a question will make you look  
+    inadequate. Don't let this keep you stuck. If you've tried and failed,
+    there is nothing to be ashamed of.
+
+* Strive for self-guidance.
+
+    Have ownership of your work - both the solutions and the problems. Be
+    proud of your achievements, however small. You are learning here and the best way to learn is to take responsibility.
+
+* Stay positive.
+
+    I'm sure you can do it - so you should be too. Don't discourage yourself
+    and lessen your skills. You are here to learn and I'm here to help you,
+    there is nothing wrong with making mistakes on the way. Just be sure to
+    understand and learn from them.

@@ -1,0 +1,20 @@
+---
+title:  "Resume generator"
+technology: Gulp and Nunjucks
+categories: ["idea"]
+link: "https://github.com/trueskawka/resume"
+---
+
+While looking for a new job after moving to Canada, I decided
+to create a simple tool for generating the resume. The European
+format I was used to is very different from the North American
+approach, so I wanted to have some fun while working on it.
+
+This project uses:
+- Gulp for tasks (generating HTML, reading JSON data etc.)
+- Nunjucks for the HTML template
+- JSON for storing the resume data
+- CSS for styling
+
+Check out my pure HTML + CSS [resume](/resume) created with this 
+tool.
