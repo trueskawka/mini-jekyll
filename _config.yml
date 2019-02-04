@@ -1,6 +1,6 @@
 title: Alicja Raszkowska
 
-baseurl: "/mini-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/mini-jekyll-deploy" # the subpath of your site, e.g. /blog
 url: "https://trueskawka.github.io" # the base hostname & protocol for your site
 
 markdown: kramdown

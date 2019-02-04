@@ -10,11 +10,11 @@ permalink: /blog/
 {% if post.categories contains 'blog' %}
 <div class="post">
   {% if site.lang == "en" %}
-  <a href="{{ site.baseurl_root }}{{ post.url }}">
+  <a href="{{ site.baseurl }}{{ post.url }}">
     <h3>{{ post.title }}</h3>
   </a>
   {% else %}
-  <a href="{{ site.baseurl_root }}/pl{{ post.url }}">
+  <a href="{{ site.baseurl }}/pl{{ post.url }}">
     <h3>{{ post.title }}</h3>
   </a>
   {% endif %}
