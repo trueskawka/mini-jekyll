@@ -23,7 +23,10 @@
     href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
   />
 
-  <link rel="stylesheet" href="{{
-    "/css/blog.css" | prepend: site.baseurl
-  }}">
+  <style>
+    {% capture critical %}
+      {% include blog.scss %}
+    {% endcapture %}
+    {{ critical | scssify }}
+  </style>
 </head>

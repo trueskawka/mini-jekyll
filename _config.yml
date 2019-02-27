@@ -11,3 +11,6 @@ languages: ["en", "pl"]
 
 show_drafts: false
 future: true
+
+sass:
+  style: compressed
