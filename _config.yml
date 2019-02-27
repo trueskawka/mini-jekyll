@@ -1,11 +1,14 @@
-title: Alicja Raszkowska
+title: Alicja's thoughts
+description: A blog on learning and programming ideas
 
 baseurl: "/mini-jekyll-deploy" # the subpath of your site, e.g. /blog
 url: "https://trueskawka.github.io" # the base hostname & protocol for your site
+author: Alicja Raszkowska
 
 markdown: kramdown
 plugins:
   - jekyll-multiple-languages-plugin
+  - jekyll-feed
 
 languages: ["en", "pl"]
 

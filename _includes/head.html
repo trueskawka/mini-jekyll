@@ -23,6 +23,8 @@
     href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
   />
 
+  {% feed_meta %}
+
   <style>
     {% capture critical %}
       {% include blog.scss %}
