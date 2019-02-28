@@ -19,3 +19,5 @@ sass:
   style: compressed
 
 highlighter: rouge
+
+cdn_path: https://s3.eu-west-2.amazonaws.com/photos-trueskawka/photos
