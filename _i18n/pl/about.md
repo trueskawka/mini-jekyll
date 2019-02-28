@@ -1,15 +1,11 @@
-## Hello!
+## Ahoj!
 
-My name is
-<ruby>Alicja <rp>(</rp><rt>uh-LEE-ts-ya</rt><rp>)</rp></ruby> and this is my
-personal website.
+Mam na imię Alicja a to mój blog.
 
-I write about learning things and exploring ideas. In no particular order, I
-like Haskell, CSS, writing documentation, building systems, analyzing data,
-drawing, learning languages, and chocolate.
+Piszę o uczeniu się i poszukiwaniu pomysłów, głównie po angielsku. Interesują mnie
+Haskell, CSS, dokumentacja techniczna, budowanie systemów, analiza danych, rysowanie,
+nauka języków obcych i czekolada.
 
-Professionally, I work at
-<a href="https://www.mobify.com/">Mobify</a>, building developer tools for
-progressive web apps. I am also a part of the
-<a href="https://www.recurse.com/scout/click?t=f02b0374c676201ec7719debf8701438">Recurse Center</a>
-- a community where programmers take time off to focus on their growth.
+Pracuję w <a href="https://www.mobify.com/">Mobify</a>, gdzie rozwijam narzędzia dla
+programistów. Jestem też członkiem społeczności
+<a href="https://www.recurse.com/scout/click?t=f02b0374c676201ec7719debf8701438">Recurse Center</a>.

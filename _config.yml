@@ -17,3 +17,5 @@ future: true
 
 sass:
   style: compressed
+
+highlighter: rouge

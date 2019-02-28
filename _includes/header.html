@@ -4,9 +4,16 @@
   </hgroup>
   <nav role="navigation" id="main-navigation">
     <ul>
-      <li><a href="{{ site.baseurl }}/blog">blog &middot;</a></li>
-      <li><a href="{{ site.baseurl }}/ideas">ideas &middot;</a></li>
-      <li><a href="{{ site.baseurl }}/resume">resume &middot;</a></li>
+    {% if site.lang == "en" %}
+        <li><a href="{{ site.baseurl }}/blog">blog &middot;</a></li>
+        <li><a href="{{ site.baseurl }}/ideas">ideas &middot;</a></li>
+        <li><a href="{{ site.baseurl }}/resume">resume &middot;</a></li>
+        <li><a href="{{ site.baseurl }}/pl">[polski] &middot;</a></li>
+    {% else %}
+        <li><a href="{{ site.baseurl }}/blog">blog &middot;</a></li>
+        <li><a href="{{ site.baseurl }}/resume">resume &middot;</a></li>
+        <li><a href="{{ site.baseurl_root }}/">[english] &middot;</a></li>
+    {% endif %}
     </ul>
   </nav>
   <ul id="external-links">
