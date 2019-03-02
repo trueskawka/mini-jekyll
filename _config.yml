@@ -2,7 +2,7 @@ title: Alicja's thoughts
 description: A blog on learning and programming ideas
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://trueskawka.github.io" # the base hostname & protocol for your site
+url: "https://alicja.dev" # the base hostname & protocol for your site
 author: Alicja Raszkowska
 
 markdown: kramdown
