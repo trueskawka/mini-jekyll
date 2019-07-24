@@ -13,15 +13,15 @@ I came to realize how many thoughts I have around my English accent. It's a mix 
 
 > Okay, so you're bragging, right? You want to show off and tell everyone how good your accent is. That you're passing for a native speaker and it is about your ego.
 
-I keep struggling with that idea, because, yes, part of it is pride in my skill level and effort I put into learning it. Part if it is lack of comfort, and awareness of my privilege. 
+I keep struggling with that idea, because, yes, part of it is pride in my skill level and effort I put into learning it. Part if it is lack of comfort, and awareness of my privilege.
 
 I have small interactions around my accent daily. They are usually positive for me and well-meaning from others. I enjoy them, but they leave me with a sense of uneasiness every so often. And digging into that uneasiness seems worth the effort.
 
 #### Working as a software engineer
 
-English is the _lingua franca_ of software engineering, as is it in many other fields. I need it for my day to day work. I needed it even when I was living in Poland. All my code is in English. All my comments are in English. Most of my writing is in English because of the value of sharing ideas and the high cost of translating it. Translating is like rewriting your thoughts in a different voice that somehow needs to still feel like you.
+English is the _lingua franca_ of software engineering, as it is in many other fields. I need it for my day to day work. I needed it even when I was living in Poland. All my code is in English. All my comments are in English. Most of my writing is in English because of the value of sharing ideas and the high cost of translating it. Translating is like rewriting your thoughts in a different voice that somehow needs to still feel like you.
 
-To keep up to date with technology, grow our skills and work as engineers, we need English. 
+To keep up to date with technology, grow our skills and work as engineers, we need English.
 
 #### Perception of certain vernaculars
 
@@ -33,7 +33,7 @@ To speak with an Eastern European accent is to label oneself as the other. That 
 
 #### Living in an English speaking country
 
-I look like I could be from anywhere in Europe with my generic European face. My accent and vocuabulary put me somewhere close to Northern and Western Europe. My job puts me firmly in the category of professionals.
+I look like I could be from anywhere in Europe with my generic European face. My accent and vocabulary put me somewhere close to Northern and Western Europe. My job puts me firmly in the category of professionals.
 
 When someone asks where I'm from, they bring about curiousness. They expect to hear about a land full of happy blond people speaking a fast-paced Germanic language. They have expectations around good social security systems and an outstanding education.
 
