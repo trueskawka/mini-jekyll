@@ -27,7 +27,7 @@ My long-term capstone goal is building an application for learning music theory 
 - computer science:
     - "How to Design Programs" [https://htdp.org/](https://htdp.org/)
     - BaseCS series: [https://github.com/vaidehijoshi/basecs-series](https://github.com/vaidehijoshi/basecs-series)
-    - philosophy of computer science: [https://cse.buffalo.edu/~rapaport/Papers/phics.pdf](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)
+    - "Philosophy of Computer Science": [https://cse.buffalo.edu/~rapaport/Papers/phics.pdf](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)
     - Destroy All Software: [https://www.destroyallsoftware.com](https://www.destroyallsoftware.com/)
     - CS for All: [https://www.cs.hmc.edu/twiki/bin/view/CSforAll/WebHome](https://www.cs.hmc.edu/twiki/bin/view/CSforAll/WebHome)
 - functional programming with Haskell:
@@ -50,7 +50,7 @@ My long-term capstone goal is building an application for learning music theory 
 
 ## First adventure - Computer Science fundamentals
 
-Goal: 
+Goals:
 
 - to improve my understanding of the fundamentals of Computer Science:
     - how computers work
