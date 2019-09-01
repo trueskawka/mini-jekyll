@@ -18,7 +18,8 @@ This project uses:
 - Node.js for generating output HTML
 
 Some zines I created with this setup:
-- [Why I'm learning Haskell?]({{ site.baseurl }}/zines/haskell_why)
+- [Why am I learning Haskell?]({{ site.baseurl }}/zines/haskell_why)
 - [Haskell: intro]({{ site.baseurl }}/zines/haskell_intro)
 - [Haskell: functions]({{ site.baseurl }}/zines/haskell_functions)
 - [Haskell: integer division]({{ site.baseurl }}/zines/haskell_division)
+- [Haskell: list comprehensions]({{ site.baseurl }}/zines/haskell_list_comprehensions)

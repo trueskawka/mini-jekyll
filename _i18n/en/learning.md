@@ -65,28 +65,63 @@ Goals:
 
 ### Week 0 - Planning and prep
 
-Goals:
+**Goals**
 
-- [ ]  learn to make GIFs
-- [ ]  set up my Haskell learning environment
-- [ ]  sketch the plan for week 1
+- [x]  learn to make GIFs
+
+    I made a few GIFs with Procreate using different ideas and I think I'm ready to use them with my drawings for CS
+
+- [x]  set up my Haskell learning environment
+
+    I have "Haskell for Mac" set up and I think it's good enough for now
+
+- [x]  create a setup for zines
+
+    I transferred a few of my old notes to a [pure HTML/CSS format](https://github.com/trueskawka/css-zines), using my custom handwritten font, and I have ideas on what other topics I can write on - to be improved on an ongoing basis, while creating new zines
+
+- [x]  sketch the plan for week 1
+
+**Haskell**
+
+I found a bunch of books:
+
+- [Thinking Functionally with Haskell](https://www.cs.ox.ac.uk/publications/books/functional/) - intro course, mathematical reasoning and functional programming
+- [Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html) - intro book, there is an edX course that uses it
+- [Practical Haskell](https://www.apress.com/gp/book/9781484244791) - hands-on intro
+- [The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf) - learning math with Haskell
+- [Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell) - introduction to Haskell and functional programming
+- [Beautiful Code, Compelling Evidence](https://www.renci.org/wp-content/pub/tutorials/BeautifulCode.pdf) - data visualization with functional programming
+
+I think out of those some are less relevant at the moment, so I'm going to stick with "Haskell Programming from First Principles" for now and probably do "Thinking Functionally with Haskell" or "Get Programming with Haskell" next. It's more important to have momentum than breadth at this moment.
 
 ### Week 1 - How computers work?
 
-Goals:
+**Goals**
 
 - [ ]  get to drawing some CS related ideas
 - [ ]  get a better grasp on understanding of the hardware
+- [ ]  get back to [exercism](https://exercism.io/my/tracks)
 
-Scope:
+**Scope**
 
 - [ ]  bits, bytes and other creatures
 - [ ]  numbers: binary, hexadecimal etc.
 - [ ]  hardware (chips, cpu, memory, disk)
 
+**Haskell**
+
+- [ ]  go through chapters 2-6 of "Haskell Programming from First Principles"
+- [ ]  finish up transferring existing zines to HTML/CSS format
+- [ ]  create at least one new mini zine
+- [ ]  start planning the full "Intro to Haskell" zine - create a list of concepts I want it to cover
+
+**Blogging**
+
+- [ ]  write a draft of a blog post on GIF format
+
 ### Week 2 - Basic data structures
 
-Scope:
+**Scope**
 
 - [ ]  linked lists
 - [ ]  stacks and queues
@@ -95,7 +130,7 @@ Scope:
 
 ### Week 3 - Intro algorithms
 
-Scope:
+**Scope**
 
 - [ ]  why are graphs? what are they useful for?
 - [ ]  to get recursion you need to get recursion
@@ -104,7 +139,7 @@ Scope:
 
 ### Weeks 4-5 - Sorting problems
 
-Scope:
+**Scope**
 
 - [ ]  what's hard about sorting?
 - [ ]  selection sort
