@@ -24,3 +24,4 @@ Some zines I created with this setup:
 - [Haskell: integer division]({{ site.baseurl }}/zines/haskell_division)
 - [Haskell: list comprehensions]({{ site.baseurl }}/zines/haskell_list_comprehensions)
 - [Haskell: mapping vs folding lists]({{ site.baseurl }}/zines/haskell_mapping_vs_folding)
+- [Haskell: functors]({{ site.baseurl }}/zines/haskell_functors)
